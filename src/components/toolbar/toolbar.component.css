@@ -1,0 +1,6 @@
+.toolbar{
+  @apply flex flex-row items-center justify-between;
+  .ant-menu{
+  @apply bg-transparent;
+  }
+}
