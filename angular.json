@@ -16,7 +16,6 @@
             "outputPath": "dist/portfolio-angular",
             "index": "src/index.html",
             "browser": "src/main.ts",
-            "baseHref": "/IdeaProjects",
             "polyfills": [
               "zone.js"
             ],
